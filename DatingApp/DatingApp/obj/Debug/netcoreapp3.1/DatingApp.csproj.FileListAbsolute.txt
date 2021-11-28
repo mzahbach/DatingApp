@@ -57,3 +57,11 @@ D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native
 D:\DatingApp\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csproj.CopyComplete
 D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Humanizer.dll
 D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DatingApp\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

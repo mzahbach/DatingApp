@@ -6,6 +6,6 @@ namespace DatingApp.Controllers
     [Route("api/[Controller]")]
     public class BaseApiController: ControllerBase
     {
-        
+         
     }
 }
